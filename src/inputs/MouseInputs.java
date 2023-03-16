@@ -2,7 +2,7 @@ package inputs;
 
 import java.awt.event.*;
 
-import gamebuildingvideo.gamepanel;
+import movingsquare.gamepanel;
 
 public class MouseInputs implements MouseListener, MouseMotionListener  {
 
