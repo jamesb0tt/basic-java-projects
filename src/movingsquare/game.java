@@ -1,4 +1,4 @@
-package gamebuildingvideo;
+package movingsquare;
 public class game {
 
 private gamescreen screen;
