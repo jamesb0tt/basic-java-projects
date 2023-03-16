@@ -3,7 +3,7 @@ package inputs;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-import gamebuildingvideo.gamepanel;
+import movingsquare.gamepanel;
 
 public class KeyboardInputs implements KeyListener{
 
