@@ -1,4 +1,4 @@
-package gamebuildingvideo;
+package movingsquare;
 import javax.swing.*;
 import inputs.*;
 import java.awt.*;
